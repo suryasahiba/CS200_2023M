@@ -96,6 +96,13 @@ Group X : SIDDHARTH JAIN - 12241750
 The A Group: Ashwin Jaiswal-12240290
 		Aryan Maurya- 12240280
 		Arpan Goswami- 12240250
+		
+
+Team BMS : G BHANU PRAKASH - 12240620
+           K MUKESH        - 12240770
+           T SAI CHANDRA RAJU - 12241890
+           
+           
 
 
 
