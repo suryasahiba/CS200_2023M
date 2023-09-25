@@ -13,3 +13,10 @@ HashGuild: OJUS GOEL- 12241190
 Leachers : SUMIT KUMAR PATHAK - 12241820
            SURAJ UTTAM GAIKWAD - 12241830
            SUSHIL RAJ - 12241840
+
+VOYAGE (23) : P MALLIKARJUN - 12041030
+         SOUMEN
+                    
+A-Cube :            AMOGH JOSHI - 12040120
+ 	                AAKASH THATTE - 12041590
+ 	                AMAN VISHNOI - 12040090
