@@ -8,9 +8,7 @@ Techno Sync :       SHIVANGI GAUR - 12241720
                     VAIDEEKA AGRAWAL - 12241960
                     JHANSI MATCHA - 12241000
                     
-Principia:          Shashank Pant - 12241700
-                     Pushan Kumar - 12241400
-                     Ujjwal raj   - 12241920
+
 =======
 Techno Sync : SHIVANGI GAUR - 12241720
               VAIDEEKA AGRAWAL - 12241960
@@ -29,4 +27,15 @@ VOYAGE (23) : P MALLIKARJUN - 12041030
 A-Cube :            AMOGH JOSHI - 12040120
  	                AAKASH THATTE - 12041590
  	                AMAN VISHNOI - 12040090
+<<<<<<< HEAD
 >>>>>>> 1af33bb8bbdc375621db674b737f5b2d4dc4f603
+=======
+F : ANSH AZAD - 12040240
+    ANEESH TICKOO - 12040190
+    VISHESH THAKUR - 12041750
+>>>>>>> b73f8530925d6b7c60b934877a98eb431d1b6048
+
+
+Principia:          Shashank Pant - 12241700
+                     Pushan Kumar - 12241400
+                     Ujjwal raj   - 12241920
