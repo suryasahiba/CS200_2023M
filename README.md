@@ -51,6 +51,11 @@ Double-Slash : Sreya Chitluru 12240480<br> Bhoomi Goyal 12240430<br> Manopriya M
 Night Conquerors: Smit Maurya -12241760
 	Anil Kumar Mandal -12240150
 	Koosh Gupta -12240850
+	
+THE SYG : Saurav - 12241660
+          Yuvraj Mandrah - 12242070
+          Govind More - 12240610
+          
 
 
 
