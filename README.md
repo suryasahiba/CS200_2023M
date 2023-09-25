@@ -31,9 +31,7 @@ F : ANSH AZAD - 12040240
     VISHESH THAKUR - 12041750
 
 
-Repo riots : Ayush Patel -12240350
-              Pulidindi MAneesh-12241380
-               Mayank Patel-12241020
+
 
 
 Principia:          Shashank Pant - 12241700
