@@ -16,3 +16,7 @@ Leachers : SUMIT KUMAR PATHAK - 12241820
 
 VOYAGE (23) : P MALLIKARJUN - 12041030
          SOUMEN
+                    
+A-Cube :            AMOGH JOSHI - 12040120
+ 	                AAKASH THATTE - 12041590
+ 	                AMAN VISHNOI - 12040090
