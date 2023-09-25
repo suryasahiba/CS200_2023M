@@ -93,7 +93,9 @@ Group X : SIDDHARTH JAIN - 12241750
 >>>>>>> 3a0e547 (NIKHIL)
 
 
-
+The A Group: Ashwin Jaiswal-12240290
+		Aryan Maurya- 12240280
+		Arpan Goswami- 12240250
 
 
 
