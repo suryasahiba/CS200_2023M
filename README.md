@@ -70,9 +70,12 @@ Digi Dreamers : Sumanth Guptha Murukuri - 12241070<br>
      P Manohar Reddy                -12241270
 
 
+The A Group : Aryan Maurya-12240280
+		Arpan Goswami-12240250
+		Ashwin Jaiswal - 12240290
+
+
 ADMIN: AJAY DAS
-
-
 
 
 
