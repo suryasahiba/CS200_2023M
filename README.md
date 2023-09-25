@@ -58,7 +58,12 @@ THE SYG : Saurav - 12241660
 
 SIGTERM : TALLA SAI SURYA - 12241860
           PUNETI HEMANTH KUMAR REDDY - 12241390
-          GUNTI VARSHINI - 12140730          
+          GUNTI VARSHINI - 12140730    
+
+<br> 
+Digi Dreamers : Sumanth Guptha Murukuri - 12241070<br>
+                Rajavath Deekshitha - 12241450<br>
+                Himanshu - 12240700    <br> 
 
 
 ADMIN: AJAY DAS
