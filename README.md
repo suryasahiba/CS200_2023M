@@ -3,11 +3,12 @@
 This is the file to test colabrations
 Add your group name and members here
 
-<<<<<<< HEAD
+
 Techno Sync :       SHIVANGI GAUR - 12241720
                     VAIDEEKA AGRAWAL - 12241960
                     JHANSI MATCHA - 12241000
                     
+
 
 
 Techno Sync : SHIVANGI GAUR - 12241720
@@ -37,3 +38,107 @@ F : ANSH AZAD - 12040240
 Principia:          Shashank Pant - 12241700
                      Pushan Kumar - 12241400
                      Ujjwal raj   - 12241920
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Ciphernova Squad
+           Pravar Gupta-12241340
+          Shaikh Arbaz Mohd Merajalam - 12241690
+          Mohit Thakre - 12241050
+       
+>>>>>>> 53f788cdb944e09c1296542b88466e812d572f34
