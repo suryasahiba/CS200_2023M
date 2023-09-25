@@ -9,3 +9,7 @@ SIGTERM : SAI SURYA -12241860
 Techno Sync :       SHIVANGI GAUR - 12241720
                     VAIDEEKA AGRAWAL - 12241960
                     JHANSI MATCHA - 12241000
+Team BMS : G BHANU PRAKASH -12240620
+           K MUKESH  - 12240770
+           T SAI CHANDRA RAJU  - 12241890
+           
