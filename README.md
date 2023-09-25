@@ -9,3 +9,9 @@ SIGTERM : SAI SURYA -12241860
 Techno Sync :       SHIVANGI GAUR - 12241720
                     VAIDEEKA AGRAWAL - 12241960
                     JHANSI MATCHA - 12241000
+                    
+// Ciphernova Squad
+SIGTERM : Pravar Gupta-12241340
+          Shaikh Arbaz Mohd Merajalam - 12241690
+          Mohit Thakre - 12241050
+       
