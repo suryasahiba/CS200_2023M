@@ -39,7 +39,9 @@ Principia:          Shashank Pant - 12241700
                      Pushan Kumar - 12241400
                      Ujjwal raj   - 12241920
 
-
+Three Musketeers : SHUBHAM YOGESH MAHAJAN - 12241730
+ 		   PATEL JANMAY GAURAV - 12241240
+ 		   ADITYA BAJPAI - 12240030
 
 
 
