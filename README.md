@@ -15,6 +15,10 @@ Leachers : SUMIT KUMAR PATHAK - 12241820
            SURAJ UTTAM GAIKWAD - 12241830
            SUSHIL RAJ - 12241840
 
+
+REPO RIOTS : AYUSH PATEL -12240350 
+             MAYANK PATEL -12241020
+             PULIDINDI MANEESH -12241380
 VOYAGE (23) : P MALLIKARJUN - 12041030
          SOUMEN
                     
@@ -75,9 +79,16 @@ Digi Dreamers : Sumanth Guptha Murukuri - 12241070<br>
 ADMIN: AJAY DAS
 
 
+<<<<<<< HEAD
 Group X : SIDDHARTH JAIN - 12241750
 	UTKARSH KUMAR - 12241930
 	YELADANDI SUCHETHAN REDDY - 12242050
+=======
+       
+
+
+
+>>>>>>> 3a0e547 (NIKHIL)
 
 
 
@@ -186,5 +197,9 @@ Group X : SIDDHARTH JAIN - 12241750
            Pravar Gupta-12241340
           Shaikh Arbaz Mohd Merajalam - 12241690
           Mohit Thakre - 12241050
+          
+ //Nikhil:POTHURI NIKHIL BABU-12241280
+       M.NAVADEEP-1224060
+       K.ADITHYA-12240870
        
 >>>>>>> 53f788cdb944e09c1296542b88466e812d572f34
